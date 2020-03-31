@@ -1,5 +1,8 @@
 1. Decide pizza place
 2. Argue that pineapple is a topping
-3. Place order
+    a. Pineapple is a topping
+    b. It isn't a topping
+3. Finish argument and decide on pineapple
+4. Place order
 4. Choose payment
 5. Starve while waiting
