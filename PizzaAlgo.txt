@@ -4,5 +4,7 @@
     b. It isn't a topping
 3. Finish argument and decide on pineapple
 4. Place order
-4. Choose payment
-5. Starve while waiting
+5. Choose payment
+    a. Cash
+    b. Card
+6. Starve while waiting
