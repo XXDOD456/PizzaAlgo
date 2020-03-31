@@ -1,1 +1,5 @@
-Decide pizza place
+1. Decide pizza place
+2. Argue that pineapple is a topping
+3. Place order
+4. Choose payment
+5. Starve while waiting
